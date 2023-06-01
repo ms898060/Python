@@ -1,0 +1,85 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# Inteiros (int): Números inteiros positivos ou negativos (Sem  um ponto decimal)
+# Pontos Flutuantes (float): Números reias (Sem um ponto decimal)
+# Valores Booleanos: Um valor verdadeiro ou falso (True or False)
+
+# In[1]:
+
+
+a = 7
+
+
+# In[2]:
+
+
+type (a)
+
+
+# In[3]:
+
+
+b = -43
+
+
+# In[4]:
+
+
+type (-43)
+
+
+# In[5]:
+
+
+x1 = 4.98
+
+
+# In[6]:
+
+
+type (x1)
+
+
+# In[7]:
+
+
+int (x1)
+
+
+# In[8]:
+
+
+float (-43)
+
+
+# In[9]:
+
+
+7 == 7
+
+
+# In[10]:
+
+
+7 == 9
+
+
+# In[11]:
+
+
+7 != 9
+
+
+# In[12]:
+
+
+7 != 7
+
+
+# ==: Igual
+# !=: Diferente
+
+
+
+
